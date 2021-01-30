@@ -2,4 +2,4 @@
 Just a hello
 
 Hello earthling!
-Just doing the guide thimg here
+Just doing the guide thing here
